@@ -1,0 +1,1164 @@
+  @font-face
+ 
+{
+   font-family: "paloma";
+   src: url("../fonts/La Paloma.ttf");
+}
+  @font-face
+{
+   font-family: "acumin";
+   src: url("../fonts/Acumin Pro Cond ExtraLight.otf");
+}
+  @font-face
+{
+   font-family: "seguiemj";
+   src: url("../fonts/seguiemj.ttf");
+}
+/******************************************************************************************************/
+@media screen and (max-width:575px) and (min-width: 50px){
+  
+  .item{
+    height: auto;
+  }
+   #content{
+
+    width: 98%;
+    height: auto;
+    margin-top: 1px;
+    margin-left: 1%;
+    margin-right: 1%;
+}
+/***** P1    ****/
+#t1{
+    margin-top: 25%;
+    margin-left: 1vw;
+   font-family: "paloma";
+   color:#222222;
+   font-size: 4vw;
+}
+
+#t2{
+   margin-top: -18%;
+   font-family: "acumin";
+   color:#222222;
+   font-size: 13vw;
+}
+
+#btn_1{
+margin-top:15px;
+background-color: #1C1C1C;
+color: #EAEAEA;
+width: 100%;
+height: 30px;
+font-family: "seguiemj";
+border-style: solid;
+border: 2px solid black;
+font-size: 4vw;
+}
+/****    FIN P1*/
+
+
+/********* P2*********/
+
+#t3{
+    margin-left: -35%;
+    margin-bottom: 2%;
+   font-family: "paloma";
+   color:#222222;
+   font-size: 5vw;
+}
+
+#t4{
+   margin-top: -12%;
+   font-family: "acumin";
+   color:#222222;
+   font-size: 15vw;
+   margin-bottom: 20px;
+}
+#btn_2{
+background-color: transparent;
+color: #222222;
+width: 100%;
+height: 30px;
+font-size: 16px;
+font-family: "seguiemj";
+border-style: solid;
+border: 2px solid black;
+}
+/*********FIN P2*********/
+
+/********* P3*********/
+
+#t5{
+    margin-left: 20PX;
+    margin-bottom: 20px;
+   font-family: "paloma";
+   color:#222222;
+   font-size: 16px;
+}
+
+#t6{
+  margin-left: 7%;
+    margin-top: -45px;
+   font-family: "acumin";
+   color:#222222;
+   font-size: 60px;
+   margin-bottom: 25px;
+}
+
+#btn_3{
+margin-left: 8%;
+background-color: transparent;
+color: #222222;
+width: 223px;
+height: 30px;
+font-size: 17px;
+font-family: "seguiemj";
+border-style: solid;
+border: 2px solid black;
+}
+#boton{
+   margin-top: -38px; 
+}
+.contenedor{
+    width: 100%;
+    height: auto;
+    margin-bottom: 3%;
+    position: relative;
+    display: inline-block;
+    text-align: center;
+}
+
+#im{
+    width: 100%;
+    height: auto;
+}
+.centrado{
+    position: absolute;
+    top: 40%;
+    left: 70%;
+    transform: translate(-50%, -50%);
+}
+
+
+/************************************/
+
+.contenedor2{
+    width: 100%;
+    height: auto;
+    position: relative;
+    text-align: center;
+}
+.centrado2{
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.centrado3{
+    position: absolute;
+    top: 30%;
+    left:47%;
+    transform: translate(-50%, -50%);
+}
+#foto1{
+    margin-top: -1%;
+    width: 100%;
+    height: auto;
+
+}
+#foto2{
+    margin-top: 2%;
+
+    width: 100%;
+    height: auto;
+
+}
+#texto3{
+   font-family: "acumin";
+   color:#1c1c1c;
+   font-size: 405%;
+}
+#por{
+     font-family: "paloma";
+   color:#1c1c1c;
+   font-size:20%;
+}
+
+#imT{
+  padding-top: 20px;
+  width: 70%;
+}
+#Carousel{
+  width: 100%;
+}
+
+
+#izq{
+  width: 4%;
+  margin-top:-53%;
+  margin-left: -7%
+}
+#der{
+  width: 4%;
+  margin-top:-66%;
+  margin-left: 102%;
+}
+/******* carrucel*/
+.carousel {
+    padding: 5px 20px 0px 20px;
+}
+.banner_correo{
+  margin-top: 12%;
+}
+}
+/**********************************************************************************************************************************************/
+@media screen and (max-width:767px) and (min-width: 576px){
+
+  #content{
+    width: 98%;
+    height: auto;
+    margin-top: 1px;
+    margin-left: 1%;
+    margin-right: 1%;
+}
+/***** P1    ****/
+#t1{
+    margin-top: 80px;
+    margin-left: -45px;
+   font-family: "paloma";
+   color:#222222;
+   font-size: 22px;
+}
+
+#t2{
+    margin-top: -45px;
+   font-family: "acumin";
+   color:#222222;
+   font-size: 80px;
+}
+
+#btn_1{
+margin-top:7px;
+background-color: #1C1C1C;
+color: #EAEAEA;
+width: 228px;
+height: 30px;
+font-family: "seguiemj";
+border-style: solid;
+border: 2px solid black;
+font-size: 17px;
+}
+/****    FIN P1*/
+
+/********* P2*********/
+
+#t3{
+    margin-left: -35%;
+    margin-bottom: 1%;
+   font-family: "paloma";
+   color:#222222;
+   font-size: 3vw;
+}
+
+#t4{
+    margin-top: -12%;
+   font-family: "acumin";
+   color:#222222;
+   font-size: 9.5vw;
+   margin-bottom: 20px;
+}
+#btn_2{
+background-color: transparent;
+color: #222222;
+width: 190px;
+height: 30px;
+font-size: 16px;
+font-family: "seguiemj";
+border-style: solid;
+border: 2px solid black;
+}
+/*********FIN P2*********/
+
+/********* P3*********/
+
+#t5{
+    margin-left: 20PX;
+    margin-bottom: 25px;
+   font-family: "paloma";
+   color:#222222;
+   font-size: 14px;
+}
+
+#t6{
+  margin-left: 3%;
+    margin-top: -45px;
+   font-family: "acumin";
+   color:#222222;
+   font-size: 50px;
+   margin-bottom: 25px;
+}
+
+#btn_3{
+margin-left: 4%;
+background-color: transparent;
+color: #222222;
+width: 190px;
+height: 30px;
+font-size: 17px;
+font-family: "seguiemj";
+border-style: solid;
+border: 2px solid black;
+}
+#boton{
+   margin-top: -38px; 
+}
+.contenedor{
+    width: 100%;
+    height: auto;
+    margin-bottom: 3%;
+    position: relative;
+    display: inline-block;
+    text-align: center;
+}
+
+#im{
+    width: 100%;
+    height: auto;
+}
+.centrado{
+    position: absolute;
+    top: 40%;
+    left: 70%;
+    transform: translate(-50%, -50%);
+}
+
+
+.contenedor2{
+    width: 100%;
+    height: auto;
+    position: relative;
+    text-align: center;
+}
+.centrado2{
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.centrado3{
+    position: absolute;
+    top: 30%;
+    left:47%;
+    transform: translate(-50%, -50%);
+}
+#foto1{
+  padding-top: -10px;
+    width: 101%;
+    margin-right:  1.5%;
+    height: auto;
+}
+#foto2{
+    padding-top: -10px;
+    width: 100%;
+    height: auto;
+
+}
+#texto3{
+   font-family: "acumin";
+   color:#1c1c1c;
+   font-size: 405%;
+}
+#por{
+     font-family: "paloma";
+   color:#1c1c1c;
+   font-size:40px;
+}
+
+#imT{
+  padding-top: 60px;
+  padding-bottom: 35px;
+  width: 60%;
+}
+#Carousel{
+  padding-top: 20px;
+  width: 99%;
+}
+
+#izq{
+  width: 3%;
+  margin-top:-53%;
+  margin-left: -5%
+}
+#der{
+  width: 3%;
+  margin-top:-60%;
+  margin-left: 102%;
+}
+/******* carrucel*/
+.carousel {
+    padding: 5px 30px 0px 30px;
+}
+
+}
+
+/**********************************************************************************************************************************************/
+@media screen and (max-width: 991px) and (min-width: 768px){
+
+   #content{
+    width: 98%;
+    height: auto;
+    margin-top: 1px;
+    margin-left: 1%;
+    margin-right: 1%;
+}
+/***** P1    ****/
+#t1{
+    margin-top: 80px;
+    margin-left: -45px;
+   font-family: "paloma";
+   color:#222222;
+   font-size: 22px;
+}
+
+#t2{
+    margin-top: -45px;
+   font-family: "acumin";
+   color:#222222;
+   font-size: 80px;
+}
+
+#btn_1{
+margin-top:7px;
+background-color: #1C1C1C;
+color: #EAEAEA;
+width: 228px;
+height: 30px;
+font-family: "seguiemj";
+border-style: solid;
+border: 2px solid black;
+font-size: 17px;
+}
+/****    FIN P1*/
+
+/********* P2*********/
+
+#t3{
+    margin-left: -35%;
+    margin-bottom: 20px;
+   font-family: "paloma";
+   color:#222222;
+   font-size: 22px;
+}
+
+#t4{
+    margin-top: -50px;
+   font-family: "acumin";
+   color:#222222;
+   font-size: 70px;
+   margin-bottom: 20px;
+}
+#btn_2{
+background-color: transparent;
+color: #222222;
+width: 190px;
+height: 30px;
+font-size: 16px;
+font-family: "seguiemj";
+border-style: solid;
+border: 2px solid black;
+}
+/*********FIN P2*********/
+
+/********* P3*********/
+
+#t5{
+    margin-left: 20PX;
+    margin-bottom: 20px;
+   font-family: "paloma";
+   color:#222222;
+   font-size: 16px;
+}
+
+#t6{
+  margin-left: 7%;
+    margin-top: -45px;
+   font-family: "acumin";
+   color:#222222;
+   font-size: 60px;
+   margin-bottom: 25px;
+}
+
+#btn_3{
+margin-left: 8%;
+background-color: transparent;
+color: #222222;
+width: 223px;
+height: 30px;
+font-size: 17px;
+font-family: "seguiemj";
+border-style: solid;
+border: 2px solid black;
+}
+#boton{
+   margin-top: -38px; 
+}
+.contenedor{
+    width: 100%;
+    height: auto;
+    margin-bottom: 3%;
+    position: relative;
+    display: inline-block;
+    text-align: center;
+}
+
+#im{
+    width: 100%;
+    height: auto;
+}
+.centrado{
+    position: absolute;
+    top: 40%;
+    left: 70%;
+    transform: translate(-50%, -50%);
+}
+
+
+.contenedor2{
+    width: 100%;
+    height: auto;
+    position: relative;
+    text-align: center;
+}
+.centrado2{
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.centrado3{
+    position: absolute;
+    top: 30%;
+    left:47%;
+    transform: translate(-50%, -50%);
+}
+#foto1{
+  padding-top: -10px;
+    width: 101%;
+    margin-right:  1.5%;
+    height: auto;
+}
+#foto2{
+    padding-top: -10px;
+    width: 100%;
+    height: auto;
+
+}
+#texto3{
+   font-family: "acumin";
+   color:#1c1c1c;
+   font-size: 405%;
+}
+#por{
+     font-family: "paloma";
+   color:#1c1c1c;
+   font-size:40px;
+}
+
+#imT{
+  padding-top: 60px;
+  padding-bottom: 35px;
+  width: 60%;
+}
+
+
+
+#izq{
+  width: 3%;
+  margin-top:-53%;
+  margin-left: -105%
+}
+#der{
+  width: 3%;
+  margin-top:-60%;
+  margin-left: 102%;
+}
+/******* carrucel*/
+
+
+}
+
+@media screen and (max-width: 1009px) and (min-width: 992px){
+  
+  #content{
+    width: 70%;
+    height: auto;
+    margin-top: 10px;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+/***** P1    ****/
+#t1{
+    margin-top: 90px;
+    margin-left: -45px;
+   font-family: "paloma";
+   color:#222222;
+   font-size: 2vw;
+}
+
+#t2{
+    margin-top: -50px;
+   font-family: "acumin";
+   color:#222222;
+   font-size: 9vw;
+}
+
+#btn_1{
+margin-top:3px;
+background-color: #1C1C1C;
+color: #EAEAEA;
+width: 100%;
+height: 38px;
+font-family: "seguiemj";
+border-style: solid;
+border: 2px solid black;
+font-size: 2vw;
+}
+/****    FIN P1*/
+
+/********* P2*********/
+
+#t3{
+    margin-left: -35%;
+    margin-bottom: 20px;
+   font-family: "paloma";
+   color:#222222;
+   font-size: 2vw;
+}
+
+#t4{
+    margin-top: -50px;
+   font-family: "acumin";
+   color:#222222;
+   font-size: 6vw;
+   margin-bottom: 2vw;
+}
+#btn_2{
+background-color: transparent;
+color: #222222;
+width: 100%;
+height: 35px;
+font-size: 20px;
+font-family: "seguiemj";
+border-style: solid;
+border: 2px solid black;
+}
+/*********FIN P2*********/
+
+/********* P3*********/
+
+#t5{
+    margin-left: 20PX;
+    margin-bottom: 20px;
+   font-family: "paloma";
+   color:#222222;
+   font-size: 1.5vw;
+}
+
+#t6{
+    margin-top: -20%;
+   font-family: "acumin";
+   color:#222222;
+   font-size: 5vw;
+   margin-bottom:12%;
+}
+
+#btn_3{
+background-color: transparent;
+color: #222222;
+width: 100%;
+height: 35px;
+font-size: 20px;
+font-family: "seguiemj";
+border-style: solid;
+border: 2px solid black;
+}
+#boton{
+   margin-top: -38px; 
+}
+.contenedor{
+    width: 100%;
+    height: auto;
+    margin-bottom: 3%;
+    position: relative;
+    display: inline-block;
+    text-align: center;
+}
+
+#im{
+    width: 100%;
+    height: auto;
+}
+.centrado{
+    position: absolute;
+    top: 40%;
+    left: 70%;
+    transform: translate(-50%, -50%);
+}
+
+
+/**************************/
+
+#p1{
+    margin-left: 2%;
+    width: 40%;
+    height: 500px;
+    background-color: red;
+}
+#p2{
+    width: 40%;
+    margin-right: 5%;
+    height: 500px;
+
+}
+.contenedor2{
+    width: 100%;
+    height: auto;
+    position: relative;
+    text-align: center;
+}
+.centrado2{
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.centrado3{
+    position: absolute;
+    top: 30%;
+    left:47%;
+    transform: translate(-50%, -50%);
+}
+#foto1{
+    width: 98.5%;
+    margin-right:  1.5%;
+    height: auto;
+}
+#foto2{
+    width: 97%;
+    height: auto;
+
+}
+#texto3{
+   font-family: "acumin";
+   color:#1c1c1c;
+   font-size: 405%;
+}
+#por{
+     font-family: "paloma";
+   color:#1c1c1c;
+   font-size:40px;
+}
+
+#imT{
+  margin-top: 40px;
+  margin-bottom: 20px;
+  width: 43%;
+}
+
+#izq{
+  width: 2%;
+   margin-top:-20%;
+  margin-left: -106%
+}
+#der{
+  width: 2%;
+  margin-top:-60%;
+  margin-left: 102%;
+}
+}
+
+/**************************************************************************************************************/
+
+@media screen and (max-width: 1199px) and (min-width: 1010px){
+  body{
+    background-color: purple;
+  }
+  #content{
+    width: 70%;
+    height: auto;
+    margin-top: 10px;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+/***** P1    ****/
+#t1{
+    margin-top: 90px;
+    margin-left: -45px;
+   font-family: "paloma";
+   color:#222222;
+   font-size: 2vw;
+}
+
+#t2{
+    margin-top: -50px;
+   font-family: "acumin";
+   color:#222222;
+   font-size: 9vw;
+}
+
+#btn_1{
+margin-top:3px;
+background-color: #1C1C1C;
+color: #EAEAEA;
+width: 100%;
+height: 38px;
+font-family: "seguiemj";
+border-style: solid;
+border: 2px solid black;
+font-size: 2vw;
+}
+/****    FIN P1*/
+
+/********* P2*********/
+
+#t3{
+    margin-left: -35%;
+    margin-bottom: 20px;
+   font-family: "paloma";
+   color:#222222;
+   font-size: 2vw;
+}
+
+#t4{
+    margin-top: -50px;
+   font-family: "acumin";
+   color:#222222;
+   font-size: 6vw;
+   margin-bottom: 2vw;
+}
+#btn_2{
+background-color: transparent;
+color: #222222;
+width: 100%;
+height: 35px;
+font-size: 20px;
+font-family: "seguiemj";
+border-style: solid;
+border: 2px solid black;
+}
+/*********FIN P2*********/
+
+/********* P3*********/
+
+#t5{
+    margin-left: 20PX;
+    margin-bottom: 20px;
+   font-family: "paloma";
+   color:#222222;
+   font-size: 1.5vw;
+}
+
+#t6{
+    margin-top: -20%;
+   font-family: "acumin";
+   color:#222222;
+   font-size: 5vw;
+   margin-bottom:12%;
+}
+
+#btn_3{
+background-color: transparent;
+color: #222222;
+width: 100%;
+height: 35px;
+font-size: 20px;
+font-family: "seguiemj";
+border-style: solid;
+border: 2px solid black;
+}
+#boton{
+   margin-top: -38px; 
+}
+.contenedor{
+    width: 100%;
+    height: auto;
+    margin-bottom: 3%;
+    position: relative;
+    display: inline-block;
+    text-align: center;
+}
+
+#im{
+    width: 100%;
+    height: auto;
+}
+.centrado{
+    position: absolute;
+    top: 40%;
+    left: 70%;
+    transform: translate(-50%, -50%);
+}
+
+
+/**************************/
+
+#p1{
+    margin-left: 2%;
+    width: 40%;
+    height: 500px;
+    background-color: red;
+}
+#p2{
+    width: 40%;
+    margin-right: 5%;
+    height: 500px;
+
+}
+.contenedor2{
+    width: 100%;
+    height: auto;
+    position: relative;
+    text-align: center;
+}
+.centrado2{
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.centrado3{
+    position: absolute;
+    top: 30%;
+    left:47%;
+    transform: translate(-50%, -50%);
+}
+#foto1{
+    width: 98.5%;
+    margin-right:  1.5%;
+    height: auto;
+}
+#foto2{
+    width: 97%;
+    height: auto;
+
+}
+#texto3{
+   font-family: "acumin";
+   color:#1c1c1c;
+   font-size: 405%;
+}
+#por{
+     font-family: "paloma";
+   color:#1c1c1c;
+   font-size:40px;
+}
+
+#imT{
+  margin-top: 40px;
+  margin-bottom: 20px;
+  width: 43%;
+}
+
+#izq{
+  width: 2%;
+   margin-top:-50%;
+  margin-left: -106%
+}
+#der{
+  width: 2%;
+  margin-top:-60%;
+  margin-left: 102%;
+}
+
+.banner_correo{
+}
+}
+/**********************************************************************************************************************************************/
+@media screen and (max-width: 8000px) and (min-width: 1200px){
+#content{
+    width: 70%;
+    height: auto;
+    margin-top: 10px;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+/***** P1    ****/
+#t1{
+    margin-top: 90px;
+    margin-left: -45px;
+   font-family: "paloma";
+   color:#222222;
+   font-size: 2vw;
+}
+
+#t2{
+    margin-top: -20%;
+   font-family: "acumin";
+   color:#222222;
+   font-size:7vw;
+}
+
+#btn_1{
+margin-top:-20%;
+background-color: #1C1C1C;
+color: #EAEAEA;
+width: 100%;
+height: auto;
+font-family: "seguiemj";
+border-style: solid;
+border: 2px solid black;
+font-size: 1.5vw;
+}
+/****    FIN P1*/
+
+/********* P2*********/
+
+#t3{
+    margin-left: -35%;
+    margin-bottom: 20px;
+   font-family: "paloma";
+   color:#222222;
+   font-size: 2vw;
+}
+
+#t4{
+    margin-top: -23%;
+   font-family: "acumin";
+   color:#222222;
+   font-size: 6vw;
+}
+#btn_2{
+background-color: transparent;
+color: #222222;
+width: 100%;
+height: auto;
+margin-top: -2%;
+font-size: 1.5vw;
+font-family: "seguiemj";
+border-style: solid;
+border: 2px solid black;
+}
+/*********FIN P2*********/
+
+/********* P3*********/
+
+#t5{
+    margin-left: 20PX;
+    margin-bottom: 20px;
+   font-family: "paloma";
+   color:#222222;
+   font-size: 1.5vw;
+}
+
+#t6{
+    margin-top: -18%;
+   font-family: "acumin";
+   color:#222222;
+   font-size:5vw;
+   margin-bottom: 20px;
+}
+
+#btn_3{
+background-color: transparent;
+color: #222222;
+width: 100%;
+height: auto;
+font-size:1.5vw;
+font-family: "seguiemj";
+border-style: solid;
+border: 2px solid black;
+}
+#boton{
+   margin-top: -38px; 
+}
+.contenedor{
+    width: 100%;
+    height: auto;
+    margin-bottom: 3%;
+    position: relative;
+    display: inline-block;
+    text-align: center;
+}
+
+#im{
+    width: 100%;
+    height: auto;
+}
+.centrado{
+    position: absolute;
+    top: 40%;
+    left: 70%;
+    transform: translate(-50%, -50%);
+}
+
+
+/********************************/
+
+#p1{
+    margin-left: 2%;
+    width: 40%;
+    height: 500px;
+    background-color: red;
+}
+#p2{
+    width: 40%;
+    margin-right: 5%;
+    height: 500px;
+
+}
+.contenedor2{
+    width: 100%;
+    height: auto;
+    position: relative;
+    text-align: center;
+}
+.centrado2{
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.centrado3{
+    position: absolute;
+    top: 30%;
+    left:47%;
+    transform: translate(-50%, -50%);
+}
+#foto1{
+    width: 98.5%;
+    margin-right:  1.5%;
+    height: auto;
+}
+#foto2{
+    width: 97%;
+    height: auto;
+
+}
+#texto3{
+   font-family: "acumin";
+   color:#1c1c1c;
+   font-size: 405%;
+}
+
+#imT{
+  margin-top: 40px;
+  margin-bottom: 20px;
+  width: 43%;
+}
+
+
+#izq{
+  width: 2%;
+  margin-top:-52%;
+  margin-left: -106%
+}
+#der{
+  width: 2%;
+  margin-top:-60%;
+  margin-left: 102%;
+}
+}
